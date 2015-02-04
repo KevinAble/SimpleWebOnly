@@ -1,0 +1,6 @@
+C:\Users\Kevin Able\Documents\Visual Studio 2013\Projects\SimplePhoneGap\SillySimple\bin\SillySimple.dll.config
+C:\Users\Kevin Able\Documents\Visual Studio 2013\Projects\SimplePhoneGap\SillySimple\bin\SillySimple.dll
+C:\Users\Kevin Able\Documents\Visual Studio 2013\Projects\SimplePhoneGap\SillySimple\bin\SillySimple.pdb
+C:\Users\Kevin Able\Documents\Visual Studio 2013\Projects\SimplePhoneGap\SillySimple\obj\Debug\SillySimple.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Able\Documents\Visual Studio 2013\Projects\SimplePhoneGap\SillySimple\obj\Debug\SillySimple.dll
+C:\Users\Kevin Able\Documents\Visual Studio 2013\Projects\SimplePhoneGap\SillySimple\obj\Debug\SillySimple.pdb
